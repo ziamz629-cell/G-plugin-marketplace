@@ -1,0 +1,14 @@
+{
+  "name": "template-plugin",
+  "version": "0.1.0",
+  "description": "Starter template for first-party Grok plugin integrations.",
+  "author": {
+    "name": "xAI",
+    "url": "https://x.ai"
+  },
+  "homepage": "https://example.com",
+  "repository": "https://example.com/repo",
+  "license": "MIT",
+  "keywords": ["template", "example", "grok", "plugin"],
+  "logo": "assets/logo.svg"
+}

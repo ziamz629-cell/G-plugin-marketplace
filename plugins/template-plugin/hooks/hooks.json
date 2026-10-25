@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "before_tool_call": [
+      {
+        "matcher": "example*",
+        "handler": "example-hook"
+      }
+    ]
+  }
+}
