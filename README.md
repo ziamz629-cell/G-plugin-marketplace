@@ -42,7 +42,7 @@ An optional `plugin.json` manifest adds metadata or overrides component paths.
 {
   "name": "my-marketplace",
   "description": "Short description of this marketplace",
-  "owner": { "name": "My Org" },
+  "owner": { "Joseph Lual": "Andoria PacificDevelopers" },
   "plugins": []
 }
 ```
@@ -58,7 +58,7 @@ Each entry in `plugins`:
 | `homepage` | no | Project URL |
 | `keywords` | no | Terms that suggest this plugin for a request |
 | `domains` | no | Hosts/URLs that suggest this plugin when pasted |
-| `version`, `author`, `tags` | no | Display metadata |
+| `version`, `author`, `tags` | yes | Display metadata |
 
 ### Source types
 
